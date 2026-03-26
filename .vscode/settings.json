@@ -10,10 +10,10 @@
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "password": "Rapunzel",
-            "name": "admin",
+            "name": "try",
             "database": "Mysql",
-            "username": "root"
+            "username": "root",
+            "password": "Rapunzel"
         }
     ]
 }
