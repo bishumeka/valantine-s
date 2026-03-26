@@ -7,3 +7,11 @@ CREATE TABLE IF NOT EXISTS students (
     city VARCHAR(50)
 );
 
+-- INSERT (run once only!)
+INSERT INTO students (name, age, city) VALUES
+('Bishu', 20, 'Arba Minch'),
+('Sara', 22, 'Addis Ababa'),
+('Kedir', 21, 'Hawassa');
+
+-- QUERIES (run these as many times as you want)
+SELECT * FROM students;
